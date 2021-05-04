@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LOREVAZ5, or Lorena Vazquez.
+- 👀 I’m interested in data and how we can work with data.
+- 🌱 I’m currently learning more data science and Anaplan.
+- 📫 Feel free to reach out to me on LinkedIn https://www.linkedin.com/in/lorena-vazquez/
